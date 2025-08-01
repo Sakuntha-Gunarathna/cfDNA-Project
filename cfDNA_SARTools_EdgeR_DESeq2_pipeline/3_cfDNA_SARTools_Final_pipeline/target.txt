@@ -1,0 +1,5 @@
+SampleID	label	group
+Sample_1	OutputSample_1	Cancer
+Sample_2	OutputSample_2	Cancer
+Sample_3	OutputSample_3	Healthy
+…	….	….
