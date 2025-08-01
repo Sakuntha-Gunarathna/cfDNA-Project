@@ -1,3 +1,0 @@
-# Requirements for cfDNA Heatmap Generation Pipeline
-# Bash and GNU coreutils are required.
-# make_heatmap tool is included in this repository.
