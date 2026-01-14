@@ -94,6 +94,13 @@ make_heatmap Options
 		b = utilize hits from both strands, also for use with data that lacks strand information
 	-- End of command options
 
+
+Reference
+https://github.com/AdelmanLab/NIH_scripts/tree/main/make_heatmap
+https://zenodo.org/records/5519915?utm_source=chatgpt.com
+benjaminmartin02, KarenAdelman, & Geoff Nelson. (2021). AdelmanLab/NIH_scripts: AdelmanLab/NIH_scripts/v1 (AdelmanLab/NIH_scripts/v1). Zenodo. https://doi.org/10.5281/zenodo.5519915
+
+
 Author:
 -------
 Sakuntha Devaka Gunarathna  
